@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm a Full Stack Developer in Java tech stack. I primarily develop using Java, Spring framework, MongoDb, MySQL.Also ability to develop Android apps end to end.
+
 <!--
 **VSatyaRC/VSatyaRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
